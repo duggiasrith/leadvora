@@ -1,0 +1,7 @@
+{
+  "name": "The Tesla Elevator and Solutions",
+  "description": "Next-Gen Elevator Solutions in Hyderabad. Fast, Reliable & High-Quality Elevator Services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
